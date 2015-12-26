@@ -31,8 +31,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
+  - title: stormzhang
+    url: http://stormzhang.com/my-progress
   - title: site-name2
     url: http://www.example2.com/
   - title: site-name3
