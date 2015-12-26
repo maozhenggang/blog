@@ -18,9 +18,9 @@ menu:
   - page: about
     directory: about/
     icon: icon-about
-  - page: rss
-    directory: atom.xml
-    icon: icon-rss
+##  - page: rss
+##    directory: atom.xml
+##    icon: icon-rss
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
