@@ -69,5 +69,5 @@ theme: maupassant
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@gitcafe.com:maozhenggang/maozhenggang.git
-  branch: gitcafe-pages
+  ## repo: git@gitcafe.com:maozhenggang/maozhenggang.git
+  ## branch: gitcafe-pages
