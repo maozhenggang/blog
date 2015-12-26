@@ -69,5 +69,5 @@ theme: maupassant
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://git.coding.net/maozhenggang/blog.git
+  repo: https://github.com/maozhenggang/blog.git
   branch: master
