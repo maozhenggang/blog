@@ -4,7 +4,7 @@
 
 # Site
 title: Will
-subtitle: 只要思想不滑坡、办法总比困难多
+subtitle: 简简单单、不忘初心
 description: 记录下生活的点点滴滴
 author: maozhenggang
 language: zh-CN
@@ -68,4 +68,6 @@ theme: maupassant
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://git.coding.net/maozhenggang/blog.git
+  branch: master
