@@ -17,7 +17,7 @@ Hugo是一个用Go语言编写的静态网站生成器，它使用起来非常�
 
 ##### 基础设置
 * 随便建一个目录、比如我的就是```E:\Devel\Hugo\```
-* 打开cmd窗口、通过命令、进入该文件夹、输入```hugo new site blog``
+* 打开cmd窗口(shell)、通过命令、进入该文件夹、输入```hugo new site blog``
 * hugo就会在该文件夹下面创建如下目录结构
 	* archetypes：网站、个人、图片等信息配置
 	* config.toml ：配置文件
