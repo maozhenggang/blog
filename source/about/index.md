@@ -12,3 +12,4 @@
 * 我的维基百科:[https://github.com/maozhenggang/technical-backup-sharing/wiki](https://github.com/maozhenggang/technical-backup-sharing/wiki)
 * 邮箱：[maozhenggang@gmail.com](maozhenggang@gmail.com)
 * GitHub : [https://github.com/maozhenggang](https://github.com/maozhenggang)
+* Gitbook版程序员宝典 : [https://github.com/maozhenggang/monkey-cheats](https://github.com/maozhenggang/monkey-cheats)
