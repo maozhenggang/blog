@@ -35,3 +35,7 @@ Hugo是一个用Go语言编写的静态网站生成器，它使用起来非常�
 	* 使用 --theme 参数可以指定模版
 
 浏览器里打开： http://localhost:1313 查看
+
+###### 其他资料
+* [官方网站](https://gohugo.io/)
+* [hugo中文文档](http://www.gohugo.org/)
