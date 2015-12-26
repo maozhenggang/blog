@@ -1,4 +1,4 @@
-title: hugo搭建博客
+title: 使用hugo搭建个人站点
 date: 2015-12-26 21:01:23
 tags: hugo
 categories: 技术
