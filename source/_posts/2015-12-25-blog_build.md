@@ -1,3 +1,5 @@
+---
+layout: post
 title: Hello World
 date: 2015-12-25 21:11:54
 tags: 博客

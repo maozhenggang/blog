@@ -1,3 +1,5 @@
+---
+layout: post
 title: vagrant + coreos入门
 date: 2015-12-26 23:28:46
 tags: vagrant
