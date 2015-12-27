@@ -31,6 +31,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
+  - title: suyan
+    url: http://yansu.org
   - title: stormzhang
     url: http://stormzhang.com/my-progress
   - title: 飘过的小牛
