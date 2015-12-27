@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2015-12-27-vagrant_shell_total
+title: vagrant之常用命令汇总
 date: 2015-12-27 16:41:18
 tags: vagrant
 categories: 技术
