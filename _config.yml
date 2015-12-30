@@ -65,6 +65,8 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: maupassant
 
+duoshuo_shortname: maozhenggang
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
