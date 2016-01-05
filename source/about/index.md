@@ -1,3 +1,10 @@
+---
+title: AboutMe
+date: 2014-12-22 12:39:04
+type: "about"
+comments: false
+---
+
 ## 关于
 
 * 90后菜鸟一枚、主攻java、辅c#和python ~~~ hello world水平、
