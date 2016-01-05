@@ -5,7 +5,7 @@ date: 2015-12-26 21:01:23
 tags: hugo
 categories: 技术
 ---
-Hugo是一个用Go语言编写的静态网站生成器，它使用起来非常简单，相对于Jekyll复杂的安装设置来说，Hugo仅需要一个二进制文件hugo(hugo.exe)即可轻松用于本地调试和生成静态页面，同时hugo的生成速度比hexo、jekyll这些都要快。
+Hugo是一个用Go语言编写的静态网站生成器，它使用起来非常简单，相对于Jekyll复杂的安装设置来说，Hugo仅需要一个二进制文件hugo(hugo.exe)即可轻松用于本地调试和生成静态页面，同时hugo的生成速度比hexo、jekyll这些都要快。<!-- more -->
 
 ## mac环境安装
 	一行命令即可搞定 brew install hugo 

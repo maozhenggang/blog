@@ -5,7 +5,7 @@ date: 2015-12-27 16:41:18
 tags: vagrant
 categories: 技术
 ---
-vagrant常用命令汇总、
+vagrant常用命令汇总、<!-- more -->
 
 * vagrant 命令
 	* vagrant box add： 添加box的操作

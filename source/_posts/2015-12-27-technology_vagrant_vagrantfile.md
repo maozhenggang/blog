@@ -6,7 +6,7 @@ tags: vagrant
 categories: 技术
 ---
 
-在一些实际使用中、我们需要涉及到vagrant的网络设置、挂载、等信息的设置、这些都要通过修改Vagrantfile来实现、该文件就在创建的开发目录下面，下面就来介绍一些重要的Vagrantfile配置
+在一些实际使用中、我们需要涉及到vagrant的网络设置、挂载、等信息的设置、这些都要通过修改Vagrantfile来实现、该文件就在创建的开发目录下面，下面就来介绍一些重要的Vagrantfile配置<!-- more -->
 
 ## box设置
 
