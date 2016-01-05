@@ -14,8 +14,8 @@ Hugo是一个用Go语言编写的静态网站生成器，它使用起来非常�
 
 * 下载hugo所需2进制文件，[最新版本](https://github.com/spf13/hugo/releases)即可。我下载的是 hugo_0.15_windows_amd64.zip
 * 在本机上新建一个文件夹放置2进制文件、我的路径是 E:\Devel\Hugo\bin
-* 将  hugo_0.15_windows_amd64.zip文件解压改名成 hugo.exe 、放到该文件夹下面
-* 将 E:\Devel\Hugo\bin 路径加到环境变量中、此时打开cmd窗口、输入hugo、如果有返回、安装成功
+* 将 `hugo_0.15_windows_amd64.zip`文件解压改名成 hugo.exe 、放到该文件夹下面
+* 将 `E:\Devel\Hugo\bin` 路径加到环境变量中、此时打开cmd窗口、输入hugo、如果有返回、安装成功
 
 ## 基础设置
 * 随便建一个目录、比如我的就是```E:\Devel\Hugo\```
@@ -32,10 +32,10 @@ Hugo是一个用Go语言编写的静态网站生成器，它使用起来非常�
 * 创建第一个页面、`hugo new post/first.md`、first.md生成到`content/post/first.md`
 
 ## 运行博客预览
-* hugo server --theme=hyde --buildDrafts --watch
+* `hugo server --theme=hyde --buildDrafts --watch`
 	* 使用 --watch 参数可以在修改文章内容时让浏览器自动刷新。
 	* 使用 --theme 参数可以指定模版
 
 浏览器里打开： http://localhost:1313 查看
 
-##### 好啦，到此，一个hugo个人站点就搭建成功了、是不是很简单。
+好啦，到此，一个hugo个人站点就搭建成功了、是不是很简单。

@@ -21,18 +21,18 @@ Vagrant就是为了方便的实现虚拟化环境而设计的，使用Ruby开发
 * 准备box或者现有镜像、我用的是现有的[vagrant-Coreos](https://github.com/coreos/coreos-vagrant)镜像
 
 ## 开始
-* 创建一个本地开发环境目录 例如 windows下 E:\Devel\vagrant 、mac下/Users/Devel/vagrant
+* 创建一个本地开发环境目录 例如 windows下 `E:\Devel\vagrant` 、mac下`/Users/Devel/vagrant`
 * 将vagrant所需box或者镜像、下载到该文件夹、
-	* box： vagrant box add base  "远端的box地址或者本地的box文件名"
-	* vagrant镜像：直接 git clone https://github.com/coreos/coreos-vagrant.git
+	* box： `vagrant box add base "远端的box地址或者本地的box文件名"`
+	* vagrant镜像：直接 `git clone https://github.com/coreos/coreos-vagrant.git`
 * 初始化
-	* 镜像初始化：vagrant init 、到时候可以到配置文件修改
-	* box初始化：vagrant init "coreos" 、可以加上初始名称、
-* 启动虚拟机  vagrant up 
-* 连接虚拟机  vagrant ssh 
+	* 镜像初始化：`vagrant init` 、到时候可以到配置文件修改
+	* box初始化：`vagrant init "coreos"` 、可以加上初始名称、
+* 启动虚拟机  `vagrant up `
+* 连接虚拟机  `vagrant ssh `
 
 通过上面操作、我们就可以连接到虚拟出来的coreos中操作了、windows下vagrant ssh连接时、只会显示连接信息、不能直接连接、需要安装ssh客户端
 
-#### 好啦、简单的使用就到这里了、下一篇我会讲到Vagrantfile配置文件详解
+好啦、简单的使用就到这里了、下一篇我会讲到Vagrantfile配置文件详解
 
 
