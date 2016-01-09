@@ -14,7 +14,6 @@ linux is not unix
 ## Linux内核
 
 内核包括
-
 * 硬件
 * 内存
 * io
