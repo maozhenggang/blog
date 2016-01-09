@@ -5,7 +5,7 @@ tags: linux
 categories: 技术
 ---
 
-linux个人学习笔记第一部分<!-- more -->
+linux个人学习笔记第一部分、一些简单的基础知识、还有一些linux分区命令含义、磁盘挂载的知识的详细记录<!-- more -->
 
 ### linux含义
 
