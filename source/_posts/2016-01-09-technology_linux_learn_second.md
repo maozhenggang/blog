@@ -99,7 +99,7 @@ linux学习笔记二 、包含一些基础命令、系统命令、linux用户权
 
 ## linux简单用户管理
 
-### useradd：添加用户
+### useradd：用户管理
 
 #### 直接添加用户
 
@@ -113,7 +113,16 @@ linux学习笔记二 、包含一些基础命令、系统命令、linux用户权
 
 ``` usermod -g testgroup2 testuser  ``` 就可将原来testgroup用户组下面的testuser分配到testgroup2用户组下面
 
-### groupadd：添加用户组
+#### 删除用户
+
+删除用户分两步
+
+* 第一步、```userdel testuser```、删除该用户
+* 第二部、删除```/home/```下面的```testuser```用户文件夹
+
+通过上面两部、即可完全删除一个用户
+
+### groupadd：用户组管理
 
 添加用户分组、比如```groupadd testgroup```就新建了一个用户组、```/etc/group```下面就会有testgroup分组信息
 
