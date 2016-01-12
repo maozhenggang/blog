@@ -1,5 +1,5 @@
 ---
-title: linux学习笔记一
+title: linux学习笔记之一、基础入门学习
 date: 2016-01-09 12:09:10
 tags: linux
 categories: 技术
