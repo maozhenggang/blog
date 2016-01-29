@@ -12,6 +12,18 @@ comments: false
 * 喜欢看小说、电影、听音乐、
 * 热爱跑步、最高记录跑了七公里、希望自己能够坚持下去、
 
+
+
+## 欢迎交流
+
+* 网站：[http://maozhenggang.gitcafe.io/](http://maozhenggang.gitcafe.io/)
+* issues博客：[https://github.com/maozhenggang/technical-backup-sharing/issues](https://github.com/maozhenggang/technical-backup-sharing/issues)
+* 我的维基百科:[https://github.com/maozhenggang/technical-backup-sharing/wiki](https://github.com/maozhenggang/technical-backup-sharing/wiki)
+* 邮箱：[maozhenggang@gmail.com](maozhenggang@gmail.com)
+* GitHub : [https://github.com/maozhenggang](https://github.com/maozhenggang)
+* Gitbook版程序员宝典 : [https://github.com/maozhenggang/monkey-cheats](https://github.com/maozhenggang/monkey-cheats)
+
+
 ## 技术栈
 
 * j2ee
@@ -40,14 +52,7 @@ comments: false
 	* 会一点Nodejs(该博客就是用NodeJs的hexo搭建的)
 	* 熟练使用Markdown
 	* 简单使用gitbook、用过它写过一个程序员宝典、[访问地址](https://github.com/maozhenggang/monkey-cheats)
-## 欢迎交流
 
-* 网站：[http://maozhenggang.gitcafe.io/](http://maozhenggang.gitcafe.io/)
-* issues博客：[https://github.com/maozhenggang/technical-backup-sharing/issues](https://github.com/maozhenggang/technical-backup-sharing/issues)
-* 我的维基百科:[https://github.com/maozhenggang/technical-backup-sharing/wiki](https://github.com/maozhenggang/technical-backup-sharing/wiki)
-* 邮箱：[maozhenggang@gmail.com](maozhenggang@gmail.com)
-* GitHub : [https://github.com/maozhenggang](https://github.com/maozhenggang)
-* Gitbook版程序员宝典 : [https://github.com/maozhenggang/monkey-cheats](https://github.com/maozhenggang/monkey-cheats)
 
 
 
