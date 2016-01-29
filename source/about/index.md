@@ -43,15 +43,15 @@ comments: false
 	* 简单使用一般的高级控件、如ListView、GridView、ViewPager、Fragment、DrawerLayout等等
 * c#
 	* 熟悉使用一般的基础控件、
-	* 有过一段时间的串口编程、[github地址](https://github.com/maozhenggang/comport-debuger)
+	* 有过一段时间的串口编程、写过一个入门demo、[github地址](https://github.com/maozhenggang/comport-debuger)
 * python
 	* 简单使用、还不是太熟悉、曾经用python写过一个爬虫、爬过百思不得姐的网站
 * 其他(自学)
-	* 会基础的linux运维、(自学)、一般的Tomcat、jdk部署是坑定没问题的[学习笔记(入门教程)](http://maozhenggang.gitcafe.io/tags/linux/)
-	* 简单使用Vagrant、Docker等虚拟化技术、Vagrant还出过一个学习笔记、[Vagrant入门教程](http://maozhenggang.gitcafe.io/tags/vagrant/)
+	* 会基础的linux运维、(自学)、一般的Tomcat、jdk部署是坑定没问题的、 [学习笔记(入门教程)](http://maozhenggang.gitcafe.io/tags/linux/)
+	* 简单使用Vagrant、Docker等虚拟化技术、Vagrant还出过一个学习笔记、 [Vagrant入门教程](http://maozhenggang.gitcafe.io/tags/vagrant/)
 	* 会一点Nodejs(该博客就是用NodeJs的hexo搭建的)
 	* 熟练使用Markdown
-	* 简单使用gitbook、用过它写过一个程序员宝典、[访问地址](https://github.com/maozhenggang/monkey-cheats)
+	* 简单使用gitbook、用过它写过一个程序员宝典、 [访问地址](https://github.com/maozhenggang/monkey-cheats)
 
 
 
