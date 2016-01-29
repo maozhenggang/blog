@@ -37,7 +37,7 @@ comments: false
 	* 熟练使用基础的css、html等
 	* 熟练使用easyui、(现阶段项目使用)
 	* 简单使用bootstrap table(项目中使用过、某大牛写的github上有)
-	* 简单使用Jquery、ajax、原声js等等
+	* 简单使用Jquery、ajax、原生js等等
 * android
 	* 熟练使用基础布局、参数定义、基础控件
 	* 简单使用一般的高级控件、如ListView、GridView、ViewPager、Fragment、DrawerLayout等等
@@ -52,7 +52,18 @@ comments: false
 	* 会一点Nodejs(该博客就是用NodeJs的hexo搭建的)
 	* 熟练使用Markdown
 	* 简单使用gitbook、用过它写过一个程序员宝典、 [访问地址](https://github.com/maozhenggang/monkey-cheats)
-
+* 使用工具(只列出使用较多的)
+	* Eclipse
+	* Myeclipse
+	* IntelliJ IDEA 
+	* VisualStudio
+	* AndroidStudio
+	* HBuilder
+	* SourceTree
+	* TortoiseSVN
+	* Evernote
+	* Chrome
+	* Shadowsocks
 
 
 
